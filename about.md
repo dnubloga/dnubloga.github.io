@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: Về chúng tôi
 permalink: /about/
 ---
 
-Some information about you!
+Khoa Công nghệ Thông tin Đại học Đại Nam là nơi đào tạo kiến thức CNTT cho các sinh viên.  
 
-### More Information
+### Chi tiết chuyên ngành
 
-A place to include any other types of information that you'd like to include about yourself. 
+Để theo dõi trang này, các bạn cần có kiến thức các môn "Tin học đại cương", "Cơ sở  lập trình".
 
-### Contact me
+Nên có máy tính có kết nối internet và đặc biệt là đam mê lập trình.
 
-[email@domain.com](mailto:email@domain.com)
+### Liên hệ
+
+[dnubloga@gmail.com](mailto:dnubloga@gmail.com)
