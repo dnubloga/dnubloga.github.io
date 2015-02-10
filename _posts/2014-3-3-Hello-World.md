@@ -1,10 +1,16 @@
 ---
 layout: post
-title: You're up and running!
+title:Chào mừng bạn đến với blog của dnublog!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
+Đây là trang đàu tiên của loạt blog học tập nhằm trao đổi kinh nghiệm lập trình và sử dụng các công cụ lập trình một cách hiệu quả. 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Phần tiếp theo xin giới thiệu với các bạn cách thực hiện blog này   
+[Bài lưu trữ trên github](https://github.com/barryclark/jekyll-now) 
+
+và có thể chi tiết hơn trong bài này   
+[Bài hướng dẫn](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/)
+
+Chúc các bạn thành công !!! 
